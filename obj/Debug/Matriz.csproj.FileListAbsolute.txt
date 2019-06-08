@@ -1,0 +1,7 @@
+C:\Users\Lirian\source\repos\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\Lirian\source\repos\Matriz\bin\Debug\Matriz.exe
+C:\Users\Lirian\source\repos\Matriz\bin\Debug\Matriz.pdb
+C:\Users\Lirian\source\repos\Matriz\obj\Debug\Matriz.csprojAssemblyReference.cache
+C:\Users\Lirian\source\repos\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Lirian\source\repos\Matriz\obj\Debug\Matriz.exe
+C:\Users\Lirian\source\repos\Matriz\obj\Debug\Matriz.pdb
